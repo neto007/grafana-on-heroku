@@ -4,7 +4,7 @@ Build Grafana docker image on Heroku.
 
 ## Quick setup
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xiz-kak/grafana-on-heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/neto007/grafana-on-heroku)
 
 ## Manual setup
 
